@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andoid="http://schemas.android.com/tools">
+    <item android:id="@+id/menu1_Main_MainActivity_TRcal"   android:title="TR_Cal"
+        app:showAsAction="ifRoom"><menu>
+        <item android:id="@+id/menu1_MainActivities_TRCal_sielow" android:title="cosinelow" />
+        <item android:id="@+id/menu1_MainActivity_TRCal_coslow" android:title="sinelow"/>
+    </menu>
+
+
+
+    </item>
+
+    <item android:id="@+id/menu1_MainActivities_info" android:title="about us" />
+    <item android:id="@+id/menu1_AllActivities_help" android:title="how works?"/>
+    <item android:id="@+id/menu1_AllActivities_supportus" android:title="support and notifications"/>
+
+
+</menu>

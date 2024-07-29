@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B4B4B</color>         //menu color
+    <color name="colorPrimaryDark">#C51162</color>     //range bala safhe
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="sefid">#FFFFFF</color>
+    <color name="gray">#C5C4C4</color>
+    <color name="puple">#F50057</color>
+    <color name="lightpink_button">#FF80AB</color>
+</resources>
